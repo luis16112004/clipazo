@@ -120,11 +120,11 @@ versión gratis, y Claude lo usa automáticamente.
 | Actualizaciones y nuevas funciones primero | — | ✅ |
 
 <p align="center">
-  <a href="https://github.com/sponsors/luis16112004"><img src="https://img.shields.io/badge/Obtener%20Clipazo%20PRO-💛%20GitHub%20Sponsors-ff4fd8?style=for-the-badge" alt="Obtener PRO"></a>
+  <a href="https://wa.me/527711542417?text=Hola%21%20Quiero%20obtener%20Clipazo%20PRO%20%E2%AD%90%20Mi%20usuario%20de%20GitHub%20es%3A%20"><img src="https://img.shields.io/badge/Obtener%20Clipazo%20PRO-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Obtener Clipazo PRO por WhatsApp"></a>
 </p>
 
-Al patrocinar en el nivel PRO recibes acceso automático al repositorio privado `clipazo-pro`. Se
-instala con un solo comando y se actualiza con `git pull`.
+Escríbeme por WhatsApp con tu usuario de GitHub. Te paso las formas de pago y te doy acceso al
+repositorio privado `clipazo-pro`. Se instala con un solo comando y se actualiza con `git pull`.
 
 ---
 
@@ -198,4 +198,4 @@ Use Clipazo on **your own content**, or content you have permission to use. Down
 by a platform's terms of service. Game footage is subject to each publisher's policies. Most allow
 gameplay videos with commentary, but licensed in-game music can get Content ID claims.
 
-MIT © Clipazo. If Clipazo saves you time, ⭐ the repo or [sponsor it](https://github.com/sponsors/luis16112004) 💛
+MIT © Clipazo. If Clipazo saves you time, ⭐ the repo. Want PRO? [Message me on WhatsApp](https://wa.me/527711542417?text=Hola%21%20Quiero%20obtener%20Clipazo%20PRO%20%E2%AD%90%20Mi%20usuario%20de%20GitHub%20es%3A%20) 💬
