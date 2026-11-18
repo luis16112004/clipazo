@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="500" viewBox="0 0 1280 500" role="img" aria-label="Clipazo caption styles: karaoke (free), bounce, hormozi, box and neon (PRO)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0b1e"/><stop offset="1" stop-color="#22123f"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a7bd5"/><stop offset="1" stop-color="#00d2ff"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f857a6"/><stop offset="1" stop-color="#ff5858"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#11998e"/><stop offset="1" stop-color="#38ef7d"/></linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7971e"/><stop offset="1" stop-color="#ffd200"/></linearGradient>
+    <linearGradient id="g5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#141e30"/><stop offset="1" stop-color="#243b55"/></linearGradient>
+    <filter id="neon" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="500" fill="url(#bg)"/>
+
+  <!-- 1 karaoke (free) -->
+  <g transform="translate(40 40)">
+    <rect width="216" height="384" rx="26" fill="#0b0b12" stroke="#fff" stroke-opacity=".2" stroke-width="3"/>
+    <rect x="10" y="10" width="196" height="364" rx="18" fill="url(#g1)"/>
+    <text x="108" y="260" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="24" fill="#fff" stroke="#000" stroke-width="5" paint-order="stroke">NO <tspan fill="#ffe81f">MANCHES</tspan></text>
+    <text x="108" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">karaoke</text>
+    <text x="108" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#3cff6b">GRATIS · FREE</text>
+  </g>
+
+  <!-- 2 bounce -->
+  <g transform="translate(286 40)">
+    <rect width="216" height="384" rx="26" fill="#0b0b12" stroke="#fff" stroke-opacity=".2" stroke-width="3"/>
+    <rect x="10" y="10" width="196" height="364" rx="18" fill="url(#g2)"/>
+    <text x="108" y="260" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="24" fill="#fff" stroke="#000" stroke-width="5" paint-order="stroke">QUÉ <tspan fill="#ffe81f" font-size="28">LOCURA</tspan></text>
+    <text x="108" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">bounce</text>
+    <text x="108" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffe81f">⭐ PRO</text>
+  </g>
+
+  <!-- 3 hormozi -->
+  <g transform="translate(532 40)">
+    <rect width="216" height="384" rx="26" fill="#0b0b12" stroke="#fff" stroke-opacity=".2" stroke-width="3"/>
+    <rect x="10" y="10" width="196" height="364" rx="18" fill="url(#g3)"/>
+    <text x="108" y="250" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="34" fill="#fff" stroke="#000" stroke-width="7" paint-order="stroke">5</text>
+    <text x="108" y="290" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="29" fill="#3cff6b" stroke="#000" stroke-width="7" paint-order="stroke">ESTRELLAS</text>
+    <text x="108" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">hormozi</text>
+    <text x="108" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffe81f">⭐ PRO</text>
+  </g>
+
+  <!-- 4 box -->
+  <g transform="translate(778 40)">
+    <rect width="216" height="384" rx="26" fill="#0b0b12" stroke="#fff" stroke-opacity=".2" stroke-width="3"/>
+    <rect x="10" y="10" width="196" height="364" rx="18" fill="url(#g4)"/>
+    <rect x="34" y="232" width="148" height="40" rx="8" fill="#111"/>
+    <text x="108" y="260" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="21" fill="#fff">CORRE <tspan fill="#ffe81f">YA</tspan></text>
+    <text x="108" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">box</text>
+    <text x="108" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffe81f">⭐ PRO</text>
+  </g>
+
+  <!-- 5 neon -->
+  <g transform="translate(1024 40)">
+    <rect width="216" height="384" rx="26" fill="#0b0b12" stroke="#fff" stroke-opacity=".2" stroke-width="3"/>
+    <rect x="10" y="10" width="196" height="364" rx="18" fill="url(#g5)"/>
+    <text x="108" y="260" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="25" fill="#00f0ff" stroke="#ff2bd6" stroke-width="2" filter="url(#neon)">MODO <tspan fill="#ffffff">NOCHE</tspan></text>
+    <text x="108" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">neon</text>
+    <text x="108" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffe81f">⭐ PRO</text>
+  </g>
+</svg>

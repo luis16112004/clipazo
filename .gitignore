@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# work folders and media never belong in the repo
+clipazo-work/
+*-workspace/
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.wav
+*.json3
+*.live_chat.json
+
+# Clipazo PRO is a separate paid add-on - never commit it here
+skills/clipazo/scripts/pro/

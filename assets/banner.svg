@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Clipazo - turn your streams into Shorts, Reels and TikToks">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0b1e"/>
+      <stop offset="0.55" stop-color="#1c1240"/>
+      <stop offset="1" stop-color="#3a0f3f"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffe81f"/>
+      <stop offset="1" stop-color="#ff4fd8"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b6cff"/>
+      <stop offset="0.5" stop-color="#7a3cff"/>
+      <stop offset="1" stop-color="#ff7a3c"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <circle cx="1010" cy="120" r="170" fill="#ff4fd8" opacity="0.18" filter="url(#soft)"/>
+  <circle cx="180" cy="380" r="160" fill="#ffe81f" opacity="0.10" filter="url(#soft)"/>
+
+  <!-- film strip of a long stream -->
+  <g opacity="0.55">
+    <rect x="60" y="300" width="560" height="54" rx="8" fill="#ffffff" opacity="0.08"/>
+    <g fill="#ffffff" opacity="0.35">
+      <rect x="76" y="312" width="70" height="30" rx="4"/><rect x="156" y="312" width="70" height="30" rx="4"/>
+      <rect x="236" y="312" width="70" height="30" rx="4"/><rect x="316" y="312" width="70" height="30" rx="4"/>
+      <rect x="396" y="312" width="70" height="30" rx="4"/><rect x="476" y="312" width="70" height="30" rx="4"/>
+    </g>
+    <rect x="316" y="306" width="70" height="42" rx="6" fill="none" stroke="#ffe81f" stroke-width="4"/>
+  </g>
+
+  <text x="60" y="150" font-family="Arial Black, Impact, Helvetica, sans-serif" font-size="112" font-weight="900" fill="#ffffff" letter-spacing="-2">CLIP<tspan fill="url(#glow)">AZO</tspan></text>
+  <text x="64" y="210" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff" opacity="0.92">Tus streams → Shorts, Reels y TikToks</text>
+  <text x="64" y="254" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#c9c3ff">Your streams → viral clips, edited by AI · Claude Code skill</text>
+
+  <!-- arrow -->
+  <path d="M650 327 L760 327" stroke="#ffe81f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M748 313 L766 327 L748 341" fill="none" stroke="#ffe81f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- phones -->
+  <g transform="translate(800 52) rotate(-6)">
+    <rect width="190" height="340" rx="28" fill="#0b0b12" stroke="#ffffff" stroke-opacity="0.25" stroke-width="3"/>
+    <rect x="10" y="12" width="170" height="316" rx="20" fill="url(#screen)"/>
+    <rect x="10" y="12" width="98" height="6" rx="3" fill="#ffe81f"/>
+    <text x="95" y="80" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="17" fill="#fff" stroke="#000" stroke-width="3" paint-order="stroke">NO PUEDE SER</text>
+    <text x="95" y="250" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="22" fill="#fff" stroke="#000" stroke-width="4" paint-order="stroke">QUÉ <tspan fill="#ffe81f">LOCURA</tspan></text>
+  </g>
+  <g transform="translate(1010 34) rotate(5)">
+    <rect width="190" height="340" rx="28" fill="#0b0b12" stroke="#ffffff" stroke-opacity="0.25" stroke-width="3"/>
+    <rect x="10" y="12" width="170" height="130" rx="18" fill="#3b2a6b"/>
+    <circle cx="95" cy="72" r="38" fill="#f2c7a5"/>
+    <rect x="10" y="142" width="170" height="186" rx="18" fill="#1f8a70"/>
+    <text x="95" y="150" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="16" fill="#fff" stroke="#000" stroke-width="3" paint-order="stroke">5 ESTRELLAS</text>
+    <rect x="45" y="238" width="100" height="34" rx="6" fill="#111"/>
+    <text x="95" y="262" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="20" fill="#fff">A <tspan fill="#3cff6b">HUEVO</tspan></text>
+  </g>
+</svg>

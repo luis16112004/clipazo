@@ -1,0 +1,27 @@
+{
+  "name": "clipazo",
+  "version": "1.0.0",
+  "description": "Clipazo: turn stream VODs (YouTube/Twitch link or local file) into ready-to-post Shorts, Reels and TikToks with animated captions, hook titles, covers and post copy. Free + optional PRO add-on.",
+  "keywords": [
+    "clips",
+    "shorts",
+    "reels",
+    "tiktok",
+    "streaming",
+    "youtube",
+    "twitch",
+    "ffmpeg",
+    "yt-dlp",
+    "highlights",
+    "gta6",
+    "gaming",
+    "captions"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "luis16112004",
+    "url": "https://github.com/luis16112004"
+  },
+  "homepage": "https://github.com/luis16112004/clipazo",
+  "repository": "https://github.com/luis16112004/clipazo"
+}

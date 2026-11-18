@@ -1,0 +1,15 @@
+{
+  "name": "clipazo",
+  "description": "Clipazo - stream VODs to Shorts, Reels and TikToks",
+  "owner": {
+    "name": "luis16112004",
+    "url": "https://github.com/luis16112004"
+  },
+  "plugins": [
+    {
+      "name": "clipazo",
+      "source": "./",
+      "description": "Clipazo: turn stream VODs (YouTube/Twitch link or local file) into ready-to-post Shorts, Reels and TikToks with animated captions, hook titles, covers and post copy. Free + optional PRO add-on."
+    }
+  ]
+}
