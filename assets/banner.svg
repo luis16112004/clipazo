@@ -57,6 +57,6 @@
     <rect x="10" y="142" width="170" height="186" rx="18" fill="#1f8a70"/>
     <text x="95" y="150" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="16" fill="#fff" stroke="#000" stroke-width="3" paint-order="stroke">5 ESTRELLAS</text>
     <rect x="45" y="238" width="100" height="34" rx="6" fill="#111"/>
-    <text x="95" y="262" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="20" fill="#fff">A <tspan fill="#3cff6b">HUEVO</tspan></text>
+    <text x="95" y="262" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="20" fill="#fff"> <tspan fill="#3cff6b">WOOOOOOOW</tspan></text>
   </g>
 </svg>
